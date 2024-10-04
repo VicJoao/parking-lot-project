@@ -1,0 +1,3 @@
+C:/Users/belfo/Documents/GitHub/Proj-Estacionamento/src/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/belfo/Documents/GitHub/Proj-Estacionamento/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/belfo/Documents/GitHub/Proj-Estacionamento/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
